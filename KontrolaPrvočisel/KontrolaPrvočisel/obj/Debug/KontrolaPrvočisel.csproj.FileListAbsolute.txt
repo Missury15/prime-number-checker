@@ -1,0 +1,8 @@
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\bin\Debug\KontrolaPrvočisel.exe.config
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\bin\Debug\KontrolaPrvočisel.exe
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\bin\Debug\KontrolaPrvočisel.pdb
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\obj\Debug\KontrolaPrvočisel.csproj.AssemblyReference.cache
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\obj\Debug\KontrolaPrvočisel.csproj.CoreCompileInputs.cache
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\obj\Debug\KontrolaPrvočisel.exe
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\obj\Debug\KontrolaPrvočisel.pdb
+X:\C#\KontrolaPrvočisel\KontrolaPrvočisel\obj\Debug\KontrolaPrvočisel.exe.config
